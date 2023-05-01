@@ -12,6 +12,8 @@ public class AtmProject {
         //versiyon esma1
         System.out.println("bir kısım kodlar");
         //esma2
+        System.out.println();
+        //localde değişiklik yaptım.
 
     }
 }
